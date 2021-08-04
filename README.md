@@ -1,6 +1,8 @@
 # kali-in-docker
 Plantillas de dockerfiles para utilizar KaliLinux en Docker.
 
+Video explicativo -> https://youtu.be/sVJ4iocUods
+
 ## Kali con interfaz gráfica
 Este método consiste en instalar el escritorio gráfico de Kalilinux en la imagen de Docker junto con un servidor RDP llamado "xrdp" y así aprovechar la ventaja que nos ofrecen algunas herramientas con interfaz gráfica.
 
