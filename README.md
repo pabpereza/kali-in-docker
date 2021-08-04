@@ -1,4 +1,4 @@
-# kali-in-docker
+# Kali en Docker
 Plantillas de dockerfiles para utilizar KaliLinux en Docker.
 
 Video explicativo -> https://youtu.be/sVJ4iocUods
